@@ -5,4 +5,4 @@ This project explores the fine-tuning of lerobot/smolvla_base, a lightweight 450
 
 **Medium Article:** https://medium.com/@henryhu1607/genai-for-robotics-fine-tuning-smolvla-to-pick-and-place-940b485e6c9b
 
-**Video Code Walkthrough:** https://drive.google.com/file/d/1YDZ6SFyF4jK_i1e5e-xs0IV3jHA0mRyU/view?usp=drive_link
+**Project Walkthrough Video:** https://drive.google.com/file/d/1YDZ6SFyF4jK_i1e5e-xs0IV3jHA0mRyU/view?usp=drive_link
